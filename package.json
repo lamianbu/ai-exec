@@ -4,7 +4,7 @@
   "description": "A global command for Node.js which exec Javasccript string, like eval().",
   "main": "index.js",
   "bin": {
-    "ai-install": "index.js"
+    "ai-exec": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
