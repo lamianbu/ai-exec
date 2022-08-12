@@ -1,0 +1,29 @@
+{
+  "name": "ai-exec",
+  "version": "0.0.1",
+  "description": "A global command for Node.js which exec Javasccript string, like eval().",
+  "main": "index.js",
+  "bin": {
+    "ai-install": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamianbu/ai-exec.git"
+  },
+  "keywords": [
+    "ai-exec",
+    "command",
+    "global command",
+    "npx",
+    "eval"
+  ],
+  "author": "lamianbu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lamianbu/ai-exec/issues"
+  },
+  "homepage": "https://github.com/lamianbu/ai-exec#readme"
+}
