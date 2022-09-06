@@ -1,6 +1,6 @@
 {
   "name": "ai-exec",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A global command for Node.js which exec Javasccript string, like eval().",
   "main": "index.js",
   "bin": {

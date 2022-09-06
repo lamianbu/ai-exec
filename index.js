@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-eval(require('process').argv[3]);
+eval(require('process').argv[2]);
